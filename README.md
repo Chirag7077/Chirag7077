@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 Working on AI-powered applications and Data Science projects<br><br>👯 Interested in collaborating on Machine Learning & Data Analytics<br><br>🤝 Seeking opportunities to contribute to open-source projects<br><br>🌱 Learning Advanced Machine Learning, Data Visualization and MLOps<br><br>💬 Ask me about Python, SQL, Power BI, Flask, Excel and Machine Learning<br><br>⚡ Goal: To become a Data Scientist who builds solutions that make a real impact.
+Aspiring Data Scientist with a solid foundation in Python, SQL, Data Analytics, and Machine Learning. Currently
+pursuing professional training in Data Analytics while developing hands-on projects using Python, Power BI, and data
+visualization tools. Passionate about addressing real-world problems through data-driven insights and eager to
+contribute as a Data Scientist or Data Analyst.
 
 
 ## 🌐 Socials:
